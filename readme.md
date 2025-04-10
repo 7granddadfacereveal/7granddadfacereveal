@@ -1,4 +1,4 @@
-<div align=center
+<div align=center>
 <h1>Hello there! Im 7granddadfacereveal.</h1>
 <p>I create games cause i have nothing else to do.</p>
 <br>
