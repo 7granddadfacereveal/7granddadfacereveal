@@ -7,7 +7,7 @@
   <h2>
     My Stuff
   </h2>
-  <a href="textbox lounge">
-    https://7granddadfacereveal.github.io/64granddad-textbox-lounge/
+  <a href="https://7granddadfacereveal.github.io/64granddad-textbox-lounge/">
+    textbox lounge
   </a>
 </div>
